@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blocPage{
+    width: 1440px;
+    height: auto;
+    min-height: 100vh;
+    margin: auto;
+    background-color: brown;
+}
